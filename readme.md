@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Kezziam/jsp.git
 git push -u origin main
+git status
+git log --oneline --graph
